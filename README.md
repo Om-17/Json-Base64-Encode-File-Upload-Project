@@ -11,9 +11,7 @@ This Django project provides a REST API that accepts JSON payloads containing Ba
 ##  Requirements
 - Django==4.1.7
 - django-cors-headers==3.14.0
-- django-filter==23.1
 - djangorestframework==3.14.0
-- djangorestframework-simplejwt==5.2.2
 - drf-extra-fields==3.7.0
 - pillow==10.3.0
 # Setting Up
